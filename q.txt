@@ -1,0 +1,9 @@
+
+<head>
+<title>Dance School Management</title>
+</head>
+<body background=".jpg">
+<center><font size=7><font face="garamond"><font color="white">Dance Studio</center>
+<img src="background.jpg" width="80" height="80" align="right">
+<p align="right"><font size="4">208W1A12B6 </p>
+</body>
